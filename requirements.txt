@@ -1,0 +1,14 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+rank-bm25
+nltk
+beautifulsoup4
+fastapi
+uvicorn
+sse_starlette
+huggingface_hub
+openai
